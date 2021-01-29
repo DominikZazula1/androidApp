@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="empty">""</string>
+    <string name="tictactoe">TicTacToe</string>
+    <string name="play">PLAY</string>
+    <string name="gameHistory">GAME HISTORY</string>
+    <string name="about">ABOUT</string>
+    <string name="nickname">player1</string>
+    <string name="nickname2">player2</string>
+    <string name="ok">OK</string>
+    <string name="local_game">LOCAL GAME</string>
+    <string name="vs_computer">VS COMPUTER</string>
+    <string name="via_bluetooth">VIA BLUETOOTH</string>
+
+
+</resources>
